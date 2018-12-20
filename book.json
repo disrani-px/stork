@@ -1,5 +1,6 @@
 {
 	"root": "./docs",
+    "title": "Documentation for Stork (Storage Operator Runtime for Kubernetes)",
 	"structure": {
 		"readme": "README.md",
         "summary": "SUMMARY.md"
